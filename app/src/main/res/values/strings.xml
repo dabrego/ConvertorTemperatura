@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertorTemperatura</string>
+    <string name="action_settings">Settings</string>
+    <string name="informacion">Ingrese Temperatura Celsius</string>
+    <string name="consultar">Consultar</string>
+    <string name="vistaConsulta">Vista de Consulta</string>
+</resources>
